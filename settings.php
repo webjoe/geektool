@@ -1,6 +1,6 @@
 <?php
 // Configurations for GeekTool
-
+// .gitignored?
 // Chartbeat API Keys
 //    Host => API Key
 
